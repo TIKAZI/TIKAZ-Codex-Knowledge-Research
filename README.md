@@ -2,7 +2,7 @@
 
 <h1 align="center">TIKAZ Knowledge & Research for Codex</h1>
 <p align="center"><strong>Traceable research and decisions with evidence ledgers, disagreement, confidence, and knowledge feedback.</strong></p>
-<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.2.0-34D399.svg" alt="0.2.0" /></p>
+<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.3.0-34D399.svg" alt="0.3.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all six TIKAZ AI Skills for Codex suites</a></p>
 
 ---
