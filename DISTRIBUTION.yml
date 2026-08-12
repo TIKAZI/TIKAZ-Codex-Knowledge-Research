@@ -1,0 +1,6 @@
+suite: knowledge-research
+canonical: https://github.com/TIKAZI/TIKAZ-AI-Skills
+canonical_commit: 58f3dce1d32b9e75760686728bb1481c9ddbf126
+version: 0.2.0
+maintainer: TIKAZ
+mode: automated-distribution
