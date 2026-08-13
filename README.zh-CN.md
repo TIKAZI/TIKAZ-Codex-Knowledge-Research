@@ -9,14 +9,7 @@
 由 **TIKAZ** 主导设计、整合、独立重构和持续维护。
 
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="1 个编排器与 5 个专项研究 Skill"><h3>6</h3><sub>可安装 Skill</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="主张、证据、置信度与建议保持关联"><h3>1</h3><sub>来源到决策链路</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="个人知识仅在明确审查后才影响执行"><h3>≠</h3><sub>检索不等于采纳</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="相反证据与未决主张不会被抹平"><h3>QA</h3><sub>分歧保持可见</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.zh-CN.svg" alt="四项经过核对的核心优势" width="100%" /></p>
 
 ## 🧩 可以单独使用的 Skill
 

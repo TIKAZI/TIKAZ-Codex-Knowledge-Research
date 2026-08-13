@@ -7,14 +7,7 @@
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-34D399.svg" alt="0.8.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="One orchestrator and five focused research specialists"><h3>6</h3><sub>Installable Skills</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Claims, evidence, confidence, and recommendation stay linked"><h3>1</h3><sub>Source-to-decision trace</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Personal knowledge changes execution only after explicit review"><h3>≠</h3><sub>Retrieval is not adoption</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Contrary evidence and unresolved claims are not flattened"><h3>QA</h3><sub>Disagreement stays visible</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.svg" alt="Four verified core advantages" width="100%" /></p>
 
 ---
 

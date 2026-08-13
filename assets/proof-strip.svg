@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">6: One orchestrator and five focused research specialists. 1: Claims, evidence, confidence, and recommendation stay linked. ≠: Personal knowledge changes execution only after explicit review. QA: Contrary evidence and unresolved claims are not flattened</title>
+<style>
+.value { fill: #34D399; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="One orchestrator and five focused research specialists"><text class="value" x="150" y="70" text-anchor="middle">6</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Installable Skills</div></foreignObject></g><g class="proof" aria-label="Claims, evidence, confidence, and recommendation stay linked"><text class="value" x="450" y="70" text-anchor="middle">1</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Source-to-decision trace</div></foreignObject></g><g class="proof" aria-label="Personal knowledge changes execution only after explicit review"><text class="value" x="750" y="70" text-anchor="middle">≠</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Retrieval is not adoption</div></foreignObject></g><g class="proof" aria-label="Contrary evidence and unresolved claims are not flattened"><text class="value" x="1050" y="70" text-anchor="middle">QA</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Disagreement stays visible</div></foreignObject></g>
+</svg>
