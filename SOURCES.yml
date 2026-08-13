@@ -13,6 +13,59 @@ policy: >-
   release gate.
 
 skills:
+  context-economy:
+    mode: original-integration
+    bundled_upstream: false
+    research_references:
+      - {url: https://github.com/microsoft/LLMLingua, observed_license: MIT}
+      - {url: https://developers.openai.com/api/docs/guides/prompt-caching, observed_license: terms-governed-documentation}
+      - {url: https://developers.openai.com/api/docs/guides/compaction, observed_license: terms-governed-documentation}
+      - {url: https://developers.openai.com/api/docs/guides/file-inputs, observed_license: terms-governed-documentation}
+      - {url: https://developers.openai.com/api/docs/guides/images-vision, observed_license: terms-governed-documentation}
+    license: MIT
+    release_status: ready
+    tikaz_changes: [five-skill product architecture, adaptive text-hybrid-source routing, full context cost ledger, exact-and-structural prompt preparation, generated-PDF fidelity benchmark, reproducible public evidence card, hard-budget completion gate, evidence and efficiency separation]
+
+  context-pack:
+    mode: clean-room
+    bundled_upstream: false
+    research_references:
+      - {url: https://github.com/microsoft/markitdown, observed_license: MIT}
+      - {url: https://arxiv.org/abs/2310.06839, observed_license: research-reference-only}
+      - {url: https://arxiv.org/abs/2307.03172, observed_license: research-reference-only}
+      - {url: https://developers.openai.com/api/docs/guides/file-inputs, observed_license: terms-governed-documentation}
+      - {url: https://developers.openai.com/api/docs/guides/images-vision, observed_license: terms-governed-documentation}
+    license: MIT
+    release_status: ready
+    tikaz_changes: [standard-library canonicalization, informative-visual routing, complex-table fidelity gates, bounded pending-vision queue, stable heading anchors, SHA-256 ledger, exact deduplication, transparent lexical ranking, complete-pack budget enforcement]
+
+  conversation-checkpoint:
+    mode: original-integration
+    bundled_upstream: false
+    research_references:
+      - {url: https://developers.openai.com/api/docs/guides/compaction, observed_license: terms-governed-documentation}
+    license: MIT
+    release_status: ready
+    tikaz_changes: [seven-section recovery state, protected-fact coverage validator, evidence-bound completion state, visible omission reporting]
+
+  context-audit:
+    mode: original
+    bundled_upstream: false
+    license: MIT
+    release_status: ready
+    tikaz_changes: [six-dimension heuristic health model, read-only audit, redacted secret-shaped findings, prompt-like source boundary]
+
+  context-benchmark:
+    mode: original
+    bundled_upstream: false
+    research_references:
+      - {url: https://github.com/rtk-ai/rtk/tree/v0.45.0, observed_license: Apache-2.0}
+      - {url: https://github.com/headroomlabs-ai/headroom/tree/v0.34.0, observed_license: Apache-2.0}
+      - {url: https://github.com/microsoft/LLMLingua/tree/v0.2.2, observed_license: MIT}
+    license: MIT
+    release_status: ready
+    tikaz_changes: [versioned public synthetic corpus, separate correctness and efficiency profiles, separate efficiency and fidelity measures, raw failure retention, deterministic aggregate output]
+
   video-platform-reader:
     mode: clean-room
     bundled_upstream: false
