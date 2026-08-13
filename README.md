@@ -9,10 +9,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="One orchestrator and five focused research specialists"><h3>6</h3><sub>Installable Skills</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Claims, evidence, confidence, and recommendation stay linked"><h3>1</h3><sub>Source-to-decision trace</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Personal knowledge changes execution only after explicit review"><h3>≠</h3><sub>Retrieval is not adoption</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Contrary evidence and unresolved claims are not flattened"><h3>QA</h3><sub>Disagreement stays visible</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="One orchestrator and five focused research specialists"><h3>6</h3><sub>Installable Skills</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Claims, evidence, confidence, and recommendation stay linked"><h3>1</h3><sub>Source-to-decision trace</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Personal knowledge changes execution only after explicit review"><h3>≠</h3><sub>Retrieval is not adoption</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Contrary evidence and unresolved claims are not flattened"><h3>QA</h3><sub>Disagreement stays visible</sub></td>
 </tr>
 </table>
 

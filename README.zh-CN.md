@@ -11,10 +11,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="1 个编排器与 5 个专项研究 Skill"><h3>6</h3><sub>可安装 Skill</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="主张、证据、置信度与建议保持关联"><h3>1</h3><sub>来源到决策链路</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="个人知识仅在明确审查后才影响执行"><h3>≠</h3><sub>检索不等于采纳</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="相反证据与未决主张不会被抹平"><h3>QA</h3><sub>分歧保持可见</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="1 个编排器与 5 个专项研究 Skill"><h3>6</h3><sub>可安装 Skill</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="主张、证据、置信度与建议保持关联"><h3>1</h3><sub>来源到决策链路</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="个人知识仅在明确审查后才影响执行"><h3>≠</h3><sub>检索不等于采纳</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="相反证据与未决主张不会被抹平"><h3>QA</h3><sub>分歧保持可见</sub></td>
 </tr>
 </table>
 
