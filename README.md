@@ -31,6 +31,17 @@ Clone or download this repository, then copy the repository folder into the Skil
 git clone https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research.git
 ```
 
+## 🧩 Use one Skill independently
+
+Every Skill below has its own promise, installation command, example, execution contract, limits, and bilingual project page:
+
+- [`academic-research`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/academic-research/index.html)
+- [`document-to-markdown`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/document-to-markdown/index.html)
+- [`personal-knowledge-memory`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/personal-knowledge-memory/index.html)
+- [`product-strategy`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/product-strategy/index.html)
+- [`knowledge-research`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/knowledge-research/index.html)
+- [`solo-business-operations`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/solo-business-operations/index.html)
+
 ## 🚀 Try it
 
 ```text
