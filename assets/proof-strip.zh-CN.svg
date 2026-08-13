@@ -1,8 +1,8 @@
 <svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
 <title id="proof-title">6: 1 个编排器与 5 个专项研究 Skill. 1: 主张、证据、置信度与建议保持关联. ≠: 个人知识仅在明确审查后才影响执行. QA: 相反证据与未决主张不会被抹平</title>
 <style>
-.value { fill: #34D399; font: 750 46px "Segoe UI", Arial, sans-serif; }
-.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+.value { fill: #34D399; font: 750 54px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 24px/1.3 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
 @media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
 </style>
 <g class="proof" aria-label="1 个编排器与 5 个专项研究 Skill"><text class="value" x="150" y="70" text-anchor="middle">6</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">可安装 Skill</div></foreignObject></g><g class="proof" aria-label="主张、证据、置信度与建议保持关联"><text class="value" x="450" y="70" text-anchor="middle">1</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">来源到决策链路</div></foreignObject></g><g class="proof" aria-label="个人知识仅在明确审查后才影响执行"><text class="value" x="750" y="70" text-anchor="middle">≠</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">检索不等于采纳</div></foreignObject></g><g class="proof" aria-label="相反证据与未决主张不会被抹平"><text class="value" x="1050" y="70" text-anchor="middle">QA</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">分歧保持可见</div></foreignObject></g>
