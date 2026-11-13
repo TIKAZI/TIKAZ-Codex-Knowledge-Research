@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.12.0 - 2026-09-02
+
+- Added `context-orchestrator` as the deterministic controller for default Context Economy and explicit uppercase-`ON` Context On-Premise.
+- Added independently installable `context-onpremise` with a separate local engine repository and honest benchmark boundaries.
+- Expanded the bilingual catalog and project pages from 30 to 32 Skills.
+- Added visible hit-quality, protected-fact, multimodal, and estimated-context metrics without combining them into a universal score.
+
+## [0.11.0] - 2026-08-31
+
+### Added
+
+- Dependency-free BM25 retrieval with bounded semantic bridges, evidence facets, diversity control, and explicit insufficient-evidence fallback.
+- Bounded caller query variants that are recorded as retrieval hints and never treated as source facts.
+- Reproducible 14-case bilingual retrieval development benchmark and separately frozen 12-case adversarial challenge, including raw failures and dynamic-selection cost ledgers.
+
+### Changed
+
+- Dynamic selection now stops early only when explicit evidence facets are covered; generic queries retain a conservative Top-5.
+- Public evidence now reports Recall@K, Precision@K, MRR, nDCG, dynamic evidence recall/precision, facet coverage, and estimated selected-text reduction separately.
+
+## [0.9.0] - 2026-08-14
+
+### Added
+
+- Optional pinned Defuddle webpage adapter producing original HTML, cleaned HTML, Markdown, metadata, and a web fidelity/cost profile.
+- Public-URL validation, redirect revalidation, fetch timeout/size limits, and source-preserving failure states.
+- Web Text / Hybrid / Source routing for text-first pages, informative images, complex HTML tables, and dynamic empty shells.
+
+### Changed
+
+- Kept the Python core dependency-free and made webpage dependencies explicit rather than silently installed.
+- Disabled Defuddle third-party async fallback and documented upstream authorship, licenses, version pins, and WIP limitations.
+
 ## [0.8.0] - 2026-08-13
 
 ### Added
@@ -77,3 +110,11 @@
 - Introduced six suite orchestrators and 25 installable Skills.
 - Added evidence, routing, output, attribution, portability, and license gates.
 - Replaced unknown-license and incompatible vendored implementations with TIKAZ clean-room workflows.
+## 0.13.0 - 2026-11-13
+
+- Added the capability-first compatibility manifest for GPT-6 Astra, GPT-6.1 Sol, GPT-6 Luna, and the explicit GPT-6 Sol fallback.
+- Documented Responses API, Agents SDK, and MCP integration boundaries with requested-versus-actual model evidence.
+- Added immutable canonical-commit resolution and compatibility validation to generated distribution sync workflows.
+- Corrected the Context Economy package metadata to match the published collection version.
+
+
